@@ -3,6 +3,10 @@
 
   Dependency graphs with graphviz dot(1) (must be installed first).
 
+## Installation
+
+    $ npm install visionmedia/node-dep-graph
+
 ## API
 
 ```js
